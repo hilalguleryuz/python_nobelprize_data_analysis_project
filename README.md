@@ -4,7 +4,7 @@
 
 This project analyzes Nobel Prize data to uncover insights related to winners by country, gender, and age. The analysis includes data cleaning and manipulation followed by various visualizations to illustrate the findings.
 
-## 🔍 Key Findings
+### 🔍 Key Findings
 
 🌍 **Top 10 Countries by Nobel Prize Wins**:
 Identification of the countries that have won the most Nobel Prizes.
