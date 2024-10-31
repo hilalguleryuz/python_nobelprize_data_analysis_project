@@ -6,7 +6,7 @@ This project analyzes Nobel Prize data to uncover insights related to winners by
 
 ### Key Findings 🔍
 
-- ** 🌍 Top 10 Countries by Nobel Prize Wins**: Identification of the countries that have won the most Nobel Prizes.
+- 🌍 **Top 10 Countries by Nobel Prize Wins**: Identification of the countries that have won the most Nobel Prizes.
 - **Top 10 Female and Male Winners** 👩‍🔬👨‍🔬: A look at the most awarded individuals in Nobel Prize history, separated by gender.
 - **Dominance of Winning Countries** 📈: Analysis of the timeline to determine from which year the leading country established its dominance in Nobel Prize wins.
 - **Gender and Age Visualization** 📅: Grouping of Nobel laureates by gender and age, with corresponding visualizations.
